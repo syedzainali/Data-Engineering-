@@ -19,8 +19,6 @@ The project simulates a real-world data pipeline that:
 4. Models and analyzes it with dbt
 5. Visualizes insights in Looker Studio
 
-![Pipeline Architecture](https://github.com/DataTalksClub/data-engineering-zoomcamp/raw/main/images/architecture.svg)
-
 ---
 
 ## 📦 Technologies Used
